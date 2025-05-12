@@ -1,0 +1,70 @@
+.header{
+    background-color: rgb(82, 73, 73);
+    color: white;
+    padding: 15px;
+}
+h1,ul,li{
+    display: inline;
+    
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: gray;cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+body{
+    background-image: url(coffeepwdr.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: 100%;
+}
+.best{
+    background-color: transparent;
+    color: white;
+}
+.be{
+    color: rgb(245, 202, 11);
+    font-style: italic;
+}
+.we{
+    color: rgb(228, 135, 21);
+}
+.About{
+    background-color: black;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 10px;
+    border: solid gray;
+    margin-top: 500px;
+}
+h2{
+   color: white; 
+   padding: 10px;
+}
+.box{
+    display: inline-block;
+    box-shadow: 20px;
+    border: solid black 5px;
+    color: white;
+    width: 220px;
+    text-align: center;
+    background-color: black;
+}
+.box :hover{
+    background-color: rgb(97, 96, 96);
+    color: white; cursor: pointer;
+}
+.Menu{
+    text-align: center;
+}
+.Contact{
+    text-align: center;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
